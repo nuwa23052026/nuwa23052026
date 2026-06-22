@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**nuwa23052026/nuwa23052026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Nur
 
-Here are some ideas to get you started:
+Certified Management Accountant (CMA) with 13+ years of experience in Supply Chain Finance, Financial Analysis, Budgeting, Forecasting, Cost Control, and Financial Reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help businesses improve visibility, control costs, and make better decisions through Power BI dashboards, Excel reporting, and data-driven financial analysis.
+
+My background combines finance expertise with hands-on supply chain experience, including inventory management, procurement analysis, manufacturing cost control, and operational performance reporting.
+
+
+## 🛠️ Digital Skills
+
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+<p>
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=SQLServer&logoColor=white" alt="SQL Server Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/SAP-276DC3?style=flat&logo=SAP&logoColor=white" alt="SAP">
+</p>
