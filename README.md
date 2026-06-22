@@ -8,7 +8,7 @@ I help businesses improve visibility, control costs, and make better decisions t
 My background combines finance expertise with hands-on supply chain experience, including inventory management, procurement analysis, manufacturing cost control, and operational performance reporting.
 
 
-## 🛠️ Digital Skills
+## Digital Skills
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -22,10 +22,10 @@ My background combines finance expertise with hands-on supply chain experience, 
   <img src="https://img.shields.io/badge/SAP-276DC3?style=flat&logo=SAP&logoColor=white" alt="SAP">
 </p>
 
-## 🛠️ Technical Skills
+## Technical Skills
 Product Cost Calculation | Budgeting | Forecasting | Manufacturing Variance Analysis | Manufacturing Business Process Flow | Profitability Analysis | Cost Project Improvement | Inventory Management | Fixed Asset Management | Performance Management (KPI) | Financial Transaction 
 </p>
 
-## 🛠️ Professional Experiences
+## Professional Experiences
 Manager Business Control Production & Supply Chain | PT. Ecco Indonesia   03.2022 – 05.2026  
 </p>
