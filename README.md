@@ -26,4 +26,5 @@ Product Cost Calculation | Budgeting | Forecasting | Manufacturing Variance Anal
 
 ## Professional Experiences
 Manager Business Control Production & Supply Chain | PT. Ecco Indonesia   03.2022 – 05.2026  
+Cost Management | Olam Food Ingredient (OFI) Indonesia     07.2020 – 02.2022
 
