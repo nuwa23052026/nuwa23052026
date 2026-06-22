@@ -1,7 +1,7 @@
 
-## Hi, I am Nur
+## Hi,
 
-Certified Management Accountant (CMA) with 13+ years of experience in Supply Chain Finance, Financial Analysis, Budgeting, Forecasting, Cost Control, and Financial Reporting.
+I am Nur, Certified Management Accountant (CMA) with 13+ years of experience in Supply Chain Finance, Financial Analysis, Budgeting, Forecasting, Cost Control, and Financial Reporting.
 
 I help businesses improve visibility, control costs, and make better decisions through Power BI dashboards, Excel reporting, and data-driven financial analysis.
 
