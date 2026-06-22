@@ -24,3 +24,6 @@ My background combines finance expertise with hands-on supply chain experience, 
 
 ## 🛠️ Technical Skills
 Product Cost Calculation | Budgeting | Forecasting | Manufacturing Variance Analysis | Manufacturing Business Process Flow | Profitability Analysis | Cost Project Improvement | Inventory Management | Fixed Asset Management | Performance Management (KPI) | Financial Transaction 
+
+## 🛠️ Professional Experiences
+Manager Business Control Production & Supply Chain | PT. Ecco Indonesia   03.2022 – 05.2026  
