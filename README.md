@@ -22,6 +22,7 @@ My background combines finance expertise with hands-on supply chain experience, 
   <img src="https://img.shields.io/badge/SAP-276DC3?style=flat&logo=SAP&logoColor=white" alt="SAP">
 </p>
 
+
 ## Technical Skills
 Product Cost Calculation | Budgeting | Forecasting | Manufacturing Variance Analysis | Manufacturing Business Process Flow | Profitability Analysis | Cost Project Improvement | Inventory Management | Fixed Asset Management | Performance Management (KPI) | Financial Transaction 
 
